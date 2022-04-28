@@ -1,0 +1,129 @@
+    <!-- Pricing table Start -->
+    <section class='pricing'>
+        <div class="container">
+            <h1 class="text-center mt-5">Pricing Table</h1>
+            <div class="row justify-content-center mt-4">
+                <div class="col-3 plan">
+                    <div class="Price-plan">
+                        <h4>Standrad Plan</h4>
+                    </div>
+                    <div class='price-feature'>
+                        <p>Free</p>
+                        <p>2GB Available</p>
+                        <p>1 Email Account</p>
+                        <p>2 Databases</p>
+                        <p>Managed WordPress </p>
+                    </div>
+                    <button class="buybtn">Buy </button>
+
+                </div>
+                <div class="col-3 plan ">
+                    <div class="Price-plan">
+                        <h4>Business Plan</h4>
+                    </div>
+                    <div class='price-feature'>
+                        <p>₹199/MONTH</p>
+                        <p>10GB Available</p>
+                        <p>10 Email Account</p>
+                        <p>3 Databases</p>
+                        <p>Managed WordPress </p>
+                    </div>
+                    <button class="buybtn">Buy </button>
+
+                </div>
+                <div class="col-3 plan noborder">
+                    <div class="Price-plan">
+                        <h4>Premium Plan</h4>
+                    </div>
+                    <div class='price-feature'>
+                        <p>₹599/MONTH</p>
+                        <p>Unlimited Storage</p>
+                        <p>100 Email Account</p>
+                        <p>Unlimited Databases</p>
+                        <p>Managed WordPress </p>
+                    </div>
+                    <button class="buybtn">Buy</button>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing table end -->
+
+<!-- Life in zippy start -->
+    <section class="life">
+        <div class="container">
+            <div class="row">
+                <h1>Life in Zippy</h1>
+                <div class="col-8 mx-auto">
+                    <div class="small-centered">
+                        <div class="slider slider-single">
+                            <img src="/assets/img/life1.jpg">
+                            <img src="/assets/img/life2.jpg">
+                            <img src="/assets/img/life3.jpg">
+                            <img src="/assets/img/life4.jpg">
+                            <img src="/assets/img/life5.jpg">
+                            <img src="/assets/img/life6.jpg">
+                            <img src="/assets/img/life7.jpg">
+                            <img src="/assets/img/life10.jpg">
+                            <img src="/assets/img/life8.jpg">
+                            <img src="/assets/img/life9.jpg">
+
+                        </div>
+                        <div class="slider slider-nav">
+                            <img src="/assets/img/life1.jpg">
+                            <img src="/assets/img/life2.jpg">
+                            <img src="/assets/img/life3.jpg">
+                            <img src="/assets/img/life4.jpg">
+                            <img src="/assets/img/life5.jpg">
+                            <img src="/assets/img/life6.jpg">
+                            <img src="/assets/img/life7.jpg">
+                            <img src="/assets/img/life10.jpg">
+                            <img src="/assets/img/life8.jpg">
+                            <img src="/assets/img/life9.jpg">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+    </section>
+    <!-- Life in Zippy end -->
+
+
+
+
+
+
+<div class="col-4 team-people">
+                    <div class="person">
+                        <img src="/assets/img/team.jpg" alt="" srcset="">
+                        <ul>
+
+                            <li><i class='bx bxl-linkedin  bx-sm '></i></li>
+
+                            <li><i class='bx bxl-facebook  bx-sm '></i></li>
+
+                            <li><i class='bx bxl-twitter  bx-sm '></i></li>
+
+                        </ul>
+                    </div>
+                    <b>Frank Henderson</b>
+                    <p>Database Administrator</p>
+                </div>
+                <div class="col-4 team-people">
+                    <div class="person">
+                        <img src="/assets/img/team.jpg" alt="" srcset="">
+                        <ul>
+
+                            <li><i class='bx bxl-linkedin  bx-sm '></i></li>
+
+                            <li><i class='bx bxl-facebook  bx-sm '></i></li>
+
+                            <li><i class='bx bxl-twitter  bx-sm '></i></li>
+
+                        </ul>
+                    </div>
+                    <b>Michael </b>
+                    <p>UI Expert</p>
+                </div>
