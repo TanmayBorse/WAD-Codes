@@ -8,7 +8,7 @@ __________________________________________________________________
 
 import webapp2
 
-class MainPage(webapp.RequestHandler):
+class MainPage(webapp2.RequestHandler):
 	def get(self):
 		self.responce.write("Hello World, WE ARE RMDSSOE")
 
