@@ -1,0 +1,31 @@
+download and install jdk and jre 
+(jdk- https://www.oracle.com/java/technologies/downloads/
+jre- https://download.cnet.com/Java-Runtime-Environment-JRE/3000-2213_4-10009607.html )
+
+download cloudsim 4.0
+
+open eclipse :
+
+creat new java project 
+
+in src folder create custom_package
+
+right click src folder and click 
+         show in/ system explorer 
+
+copy source code and pest it in that src/custom_package folder
+
+reload project 
+
+change package name in every file 
+
+right click on project go to build path and than confiure build path
+         
+in library section : 
+       click add external jar 
+       select and import that 2 jar files from cloudsim 4.0 folder 
+apply, apply close
+
+right click the project and run as java application  
+
+find sjf_schedular in it and click ok 

@@ -1,0 +1,42 @@
+download vm box 
+download ubuntu image (https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt)
+
+creat vm1 
+   with :
+      ram =1024mb
+      click use an existing hard disk file 
+      give path of ubuntu image 
+      
+creat vm2
+   with :
+      ram =1024mb
+      click use an existing hard disk file 
+      give path of ubuntu image 
+
+now creat nat network :
+go to files and preferences 
+go to network :
+          click on pluse to add nat network 
+          change the name as: Nat
+          
+          
+go to settings of vm1 
+       go to networks 
+       select nat networks 
+       select name as nat 
+go to settings of vm2
+       go to networks 
+       select nat networks 
+       select name as nat 
+open both vms :
+        log in with vagrant as id and pass 
+        sudo apt install net-tool
+        sudo apt update
+        ifconfig
+        
+        touch rohit.txt (in vm1)
+        nano rohit.txt
+        add some text to file and save file 
+        ls
+        cat rohit.txt 
+        scp rohit.txt vagrant@ip_address_ofvm2:/home/vagrant
